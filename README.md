@@ -1,8 +1,8 @@
-# Data Modeling with Postgress Database for a Music Streaming App  
+# Data Modeling with Postgres Database for a Music Streaming App  
 
 ## The Project Scope:
 
-Music streaming app has records of songs and artists data stored in songs JSON files and the user activity logs are stored in log JSON files. It requires to process songs JSON files and logs JSON files and store the data in sparkify postgresql database tables like songs, artists, users, time and timeplay tables to use for data analytics purposes. 
+Music streaming app has songs and artists data stored in songs JSON files and the user activity logs are stored in log JSON files. It requires to process songs JSON files and logs JSON files and store the data in sparkify postgresql database tables like songs, artists, users, time and timeplay tables to use for data analytics purposes. 
 
 ## Schema description:   
 
