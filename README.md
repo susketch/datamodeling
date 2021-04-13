@@ -1,4 +1,4 @@
-# Data Moseling with sparkify database for a Music Streaming App  
+# Data Modeling with sparkify database for a Music Streaming App  
 
 ## The Project Scope:
 
