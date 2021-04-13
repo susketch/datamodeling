@@ -58,7 +58,7 @@ user_agent varchar
   weekday int 
 
 
-## Project Details and scripts
+## Project details and scripts
 
 I wrote  CREATE and DROP SQL statements in sql_queries.py to drop and create each table.   
 if the table exists it will drop the table so that it will not get error trying to create the eisting table.
